@@ -1,0 +1,15 @@
+Node http - Node has the module HTTP, this allows it to transfer data over HTTP. 
+To use this module you use the require() method. It can do many other things such as create a web server, 
+read and split query strings, and do much more - w3schools
+
+
+
+Node events - Every action a computer does is considered an event, 
+objects in node can fire events like when using the readStream object. 
+Node has a module built in called events that allows you to create, 
+fire and listen for your own events, this uses the require() method - w3schools
+
+
+
+Node console - The node console module provides debugging similar to JS console provided by web browsers. 
+The console module can be used with methods .log(), .error() and .warn() - nodejs.org 
